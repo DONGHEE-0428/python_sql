@@ -1,0 +1,4 @@
+리파지토리 이름 : python_sql
+파일명 : py_sql
+브랜치명 : test1
+commit 메시지 : python_sql1, python_sql2 .....
