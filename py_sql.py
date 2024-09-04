@@ -53,3 +53,12 @@ finally:
         conn.close()
 
 # 두번째
+
+[mysql]
+host = localhost
+port = 3306
+database = pub
+user = <user>
+password = <password>
+
+# 첫번째
